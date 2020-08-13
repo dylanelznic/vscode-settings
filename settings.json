@@ -1,0 +1,48 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": false,
+  "editor.renderControlCharacters": false,
+  "editor.renderIndentGuides": true,
+  "editor.renderLineHighlight": "none",
+  "editor.tabSize": 2,
+  "editor.trimAutoWhitespace": false,
+  "editor.wordWrap": "on",
+  "explorer.decorations.colors": false,
+  "files.associations": {
+    ".gitignore": "shellscript"
+  },
+  "files.exclude": {
+    "**/node_modules": true,
+    ".vscode": true
+  },
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "search.exclude": {
+    "**/dist": true,
+    "**/node_modules": true,
+    ".vscode": true
+  },
+  "window.title": "${activeEditorMedium}${separator}${rootName}",
+  "window.zoomLevel": 0,
+  "workbench.activityBar.visible": false,
+  "workbench.colorCustomizations": {
+    "editorWarning.foreground": "#ec0",
+    "editor.background": "#282923",
+    "sideBar.background": "#181915",
+    "editorGroupHeader.tabsBackground": "#181915",
+    "activityBar.background": "#181915",
+    "sideBarSectionHeader.background": "#181915",
+    "statusBar.background": "#141411",
+    "tab.inactiveBackground": "#20211c",
+    "titleBar.activeBackground": "#181915",
+    "titleBar.inactiveBackground": "#181915",
+    "list.inactiveSelectionBackground": "#42433f",
+    "list.activeSelectionBackground": "#42433f",
+    "list.hoverBackground": "#262723",
+    "list.highlightForeground": "#42433f",
+    "scrollbarSlider.background": "#181915"
+  },
+  "workbench.colorTheme": "Monokai",
+  "workbench.tree.indent": 16
+}
