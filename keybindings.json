@@ -81,14 +81,6 @@
     "command": "-workbench.action.openEditorAtIndex9"
   },
   {
-    "key": "shift+cmd+2",
-    "command": "workbench.action.splitEditor"
-  },
-  {
-    "key": "cmd+\\",
-    "command": "-workbench.action.splitEditor"
-  },
-  {
     "key": "cmd+t",
     "command": "workbench.action.quickOpen"
   },
@@ -105,5 +97,13 @@
     "key": "cmd+p",
     "command": "-workbench.action.quickOpenNavigateNextInFilePicker",
     "when": "inFilesPicker && inQuickOpen"
+  },
+  {
+    "key": "shift+cmd+2",
+    "command": "workbench.action.moveEditorToNextGroup"
+  },
+  {
+    "key": "ctrl+cmd+right",
+    "command": "-workbench.action.moveEditorToNextGroup"
   }
 ]

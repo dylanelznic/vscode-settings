@@ -8,6 +8,7 @@
   "editor.tabSize": 2,
   "editor.trimAutoWhitespace": false,
   "editor.wordWrap": "on",
+  "explorer.autoReveal": "focusNoScroll",
   "explorer.decorations.colors": false,
   "files.associations": {
     ".gitignore": "shellscript"
@@ -40,9 +41,12 @@
     "list.inactiveSelectionBackground": "#42433f",
     "list.activeSelectionBackground": "#42433f",
     "list.hoverBackground": "#262723",
-    "list.highlightForeground": "#42433f",
+    "list.highlightForeground": "#ec0",
     "scrollbarSlider.background": "#181915"
   },
   "workbench.colorTheme": "Monokai",
+  "workbench.editor.enablePreview": false,
+  "workbench.editor.labelFormat": "short",
+  "workbench.editor.revealIfOpen": true,
   "workbench.tree.indent": 16
 }
